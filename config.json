@@ -1,0 +1,13 @@
+{
+    "token": "",
+    "guild_id": "",
+    "database": {
+        "conf": {
+            "username": "",
+            "password": "",
+            "ip": "",
+            "port": ""
+        },
+        "name": ""
+    }
+}
